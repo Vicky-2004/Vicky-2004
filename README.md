@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vikas Tarange
+# 👋 Hi, I'm Vikas Tarange.
 
 🎓 *B.Tech CSE Student (2021–2025)*  
 📍 Nutan College of Engineering, Pune  
