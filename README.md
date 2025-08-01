@@ -16,11 +16,11 @@ I am an enthusiastic Computer Science student with a strong interest in developi
 ## 🛠 Tech Stack
 
 *Languages:*  
-Java Python JavaScript HTML CSS SQL
+'Java' 'Python' 'JavaScript' 'HTML' 'CSS' 'SQL'
 
 *Frameworks & Tools:*  
-React Pandas NumPy OpenCV  
-Git & GitHub Arduino VS Code
+'React' 'Pandas' 'NumPy' 'OpenCV'  
+'Git & GitHub' 'Arduino' 'VS Code'
 
 *Special Skills:*     
 - Automation with Arduino    
