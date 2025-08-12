@@ -40,8 +40,8 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript for interactive t
 ## 📫 Contact Me
 
 - 📧 Email: [vikastarange7@gmail.com](mailto:vikastarange7@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vikastarange](https://www.linkedin.com/in/vikastarange)  
-- 🌐 Portfolio: Coming soon!
+- 💼 LinkedIn: [Vikas Tarange](https://www.linkedin.com/in/vikastarange)  
+- 🌐 Portfolio: [Vikas Tarange](https://iridescent-sawine-ac81c9.netlify.app/)
 
 ---
 
